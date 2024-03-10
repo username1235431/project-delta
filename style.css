@@ -1,0 +1,14 @@
+
+body {
+    font-family: sans-serif;
+}
+header {background-color: royalblue; border-radius: 2px;}
+a {color: red;}
+h1 {color: darkblue;}
+footer {color: blueviolet;} 
+nav a {color: blue;
+font-size: 27px;
+
+}
+
+nav {border: 5px solid skyblue;}
